@@ -1,0 +1,62 @@
+4 //Ilosc miast
+Warszawa //miasto pierwsze
+	3 //ilosc obiektow uzytecznosci
+	zabka 50 80
+	biedronka 51 87
+	cinemacity 15 55
+	2//ilosc blokow
+	BlokA //czwarty
+		55 66 //pozycja bloku
+		1
+		Komunalne 50 4 10 1 2 //metraz, ilosc pokoi, ktore pietro, umeblowane, ilosc mieszkan(?)
+		20000 metraz 1 1 //cena, metraz, uzywane, wyremontowane
+		10000 metraz 0 1
+		1 //ilosc developerow
+			Jan Kowalski 2 15
+	BlokB 
+		5 66 //pozycja bloku
+		1
+		Komunalne 50 4 10 1 2
+		20000 metraz 1 1
+		10000 metraz 0 1
+		0 //ilosc developerow
+Poznan//drugi
+	2//ilosc obiektow uzytecznosci
+	tesco 20 50
+	biedronka 11 7
+	1//ilosc blokow
+	BlokC 
+		15 56 //pozycja bloku
+		1
+		Komunalne 50 4 10 1 2
+		20000 metraz 1 1
+		10000 metraz 0 1
+		0 //ilosc developerow
+Katowice//trzeci
+	3//ilosc obiektow uzytecznosci
+	zabka 50 80
+	przedszkole 521 87
+	apteka 1 2
+	1//ilosc blokow
+	Blok_Tysiaclecia 
+		55 66 //pozycja bloku
+		1
+		Komunalne 50 4 10 1 2
+		20000 metraz 1 1
+		10000 metraz 0 1
+		0 //ilosc developerow
+Gdansk//cztery
+	3//ilosc obiektow uzytecznosci
+	zabka 50 80
+	biedronka 51 87
+	cinemacity 15 55
+	1//ilosc blokow
+	Blok_Westerplatte //czwarty
+		55 66 //pozycja bloku
+		1
+		Komunalne 50 4 10 1 2
+		20000 metraz 1 1
+		10000 metraz 0 1
+		0 //ilosc developerow
+
+

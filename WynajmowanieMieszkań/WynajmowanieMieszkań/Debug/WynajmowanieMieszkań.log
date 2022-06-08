@@ -1,0 +1,5 @@
+﻿  Miejscowosc.cpp
+C:\Users\User\source\repos\WynajmowanieMieszkań\WynajmowanieMieszkań\Miejscowosc.cpp(28,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\User\source\repos\WynajmowanieMieszkań\WynajmowanieMieszkań\Miejscowosc.cpp(86,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\User\source\repos\WynajmowanieMieszkań\WynajmowanieMieszkań\Miejscowosc.cpp(94,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  WynajmowanieMieszkań.vcxproj -> C:\Users\User\source\repos\WynajmowanieMieszkań\Debug\WynajmowanieMieszkań.exe
